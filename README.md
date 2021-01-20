@@ -1,6 +1,7 @@
 **Social Media**
 
-![Linkedin](https://img.shields.io/badge/-Linkedin-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+[![Linkedin](https://img.shields.io/badge/-Linkedin--000000?style=flat)](https://github.com/shakilkhan12/Youtube-React-Redux-eCommerce)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
