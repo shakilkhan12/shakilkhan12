@@ -12,7 +12,7 @@
 ![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
-![LARAVEL](https://img.shields.io/badge/-LARAVEL-000000?style=flat&logo=LARAVEL&logoColor=0769AD)
+![LARAVEL](https://img.shields.io/badge/-LARAVEL-000000?style=flat&logo=LARAVEL&logoColor=ff9f43)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 
 **Some of the technologies I have worked with**
