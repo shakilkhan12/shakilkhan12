@@ -1,8 +1,15 @@
----
-title: Shakil Khan
-Github: 'shakilkhan12'
-Twitter: ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
----
+**Social Media**
+
+![Linkedin](https://img.shields.io/badge/-Linkedin-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=React&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
+![LARAVEL](https://img.shields.io/badge/-LARAVEL-000000?style=flat&logo=LARAVEL&logoColor=0769AD)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 
 [![Header](https://github.com/shakilkhan12/Youtube-Mern-Stack-Blog/blob/main/Youtube.jpg)](https://www.youtube.com/channel/UC0uT-8UEmS5LtDj4_d51zkQ)
 
@@ -10,7 +17,7 @@ Twitter: ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B
 
 **Languages I have used**
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![[C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)(https://github.com/shakilkhan12/Youtube-React-Redux-eCommerce)]
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
