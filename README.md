@@ -1,7 +1,7 @@
 ---
 title: Shakil Khan
 Github: 'shakilkhan12'
-Twitter: 'https://twitter.com/shakilkhan621'
+Twitter: ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ---
 
 [![Header](https://github.com/shakilkhan12/Youtube-Mern-Stack-Blog/blob/main/Youtube.jpg)](https://www.youtube.com/channel/UC0uT-8UEmS5LtDj4_d51zkQ)
