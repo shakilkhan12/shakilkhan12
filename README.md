@@ -25,6 +25,8 @@ githubUsername: 'shakilkhan12'
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=blue)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=e84393)
 
 **Web/Full Stack projects**
 
