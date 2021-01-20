@@ -1,6 +1,7 @@
 ---
 title: Shakil Khan
-githubUsername: 'shakilkhan12'
+Github: 'shakilkhan12'
+Twitter: 'https://twitter.com/shakilkhan621'
 ---
 
 [![Header](https://github.com/shakilkhan12/Youtube-Mern-Stack-Blog/blob/main/Youtube.jpg)](https://www.youtube.com/channel/UC0uT-8UEmS5LtDj4_d51zkQ)
