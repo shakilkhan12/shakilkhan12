@@ -1,13 +1,5 @@
 [![Header](https://github.com/shakilkhan12/shakilkhan12/blob/main/shakil%20khan.gif)](https://www.youtube.com/channel/UC0uT-8UEmS5LtDj4_d51zkQ)
 
-**Social Media**
-
-[![ReactEcommerce](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;ReactReduxeCommerce-000000?style=flat)](https://github.com/shakilkhan12/Youtube-React-Redux-eCommerce)
-[![Vue & Vuex Amazon Clone](https://img.shields.io/badge/🦠&nbsp;&nbsp;VueAmazon-000000?style=flat)](https://github.com/shakilkhan12/Youtube-vuejs-amazon-clone)
-[![MERN Blog](https://img.shields.io/badge/-📰&nbsp;&nbsp;MERNBlog-000000?style=flat)](https://github.com/shakilkhan12/Youtube-Mern-Stack-Blog)
-[![React ColorPicker](https://img.shields.io/badge/-🃏&nbsp;&nbsp;React&nbsp;Color&nbsp;Picker-000000?style=flat)](https://github.com/shakilkhan12/ReactColorPicker)
-
-
 [![webtipstricks.com](https://img.shields.io/badge/-webtipstricks-000000?style=for-the-badge&logo=react&logoColor=white)](http://webtipstricks.com/)
 
 **Languages I have used**
