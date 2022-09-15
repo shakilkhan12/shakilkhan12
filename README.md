@@ -25,6 +25,7 @@
 ![LARAVEL](https://img.shields.io/badge/-LARAVEL-000000?style=flat&logo=LARAVEL&logoColor=ff9f43)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 
 **Web/Full Stack projects**
 
