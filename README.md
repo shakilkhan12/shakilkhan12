@@ -20,12 +20,15 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=GraphQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js&logoColor=1dd1a1)
+![Vuex](https://img.shields.io/badge/-Vuex-000000?style=flat&logo=Vuex&logoColor=1dd1a1)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![LARAVEL](https://img.shields.io/badge/-LARAVEL-000000?style=flat&logo=LARAVEL&logoColor=ff9f43)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Blockchain](https://img.shields.io/badge/-Blockchain-000000?style=flat&logo=Blockchain)
+![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=Solidity)
 
 **Web/Full Stack projects**
 
